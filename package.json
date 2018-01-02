@@ -4,6 +4,7 @@
   "description": "gives atlas the ability to move around the network",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Soon (TM)\""
   },
   "repository": {
@@ -19,5 +20,19 @@
   "bugs": {
     "url": "https://github.com/YashdalfTheGray/atlas-network/issues"
   },
-  "homepage": "https://github.com/YashdalfTheGray/atlas-network#readme"
+  "homepage": "https://github.com/YashdalfTheGray/atlas-network#readme",
+  "dependencies": {
+    "@std/esm": "^0.18.0",
+    "ava": "^0.24.0",
+    "body-parser": "^1.18.2",
+    "chalk": "^2.3.0",
+    "eslint": "^4.14.0",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  },
+  "@std/esm": "cjs"
 }
