@@ -25,6 +25,7 @@
     "@std/esm": "^0.18.0",
     "body-parser": "^1.18.2",
     "chalk": "^2.3.0",
+    "dotenv": "^4.0.0",
     "express": "^4.16.2",
     "morgan": "^1.9.0",
     "public-ip": "^2.4.0"
