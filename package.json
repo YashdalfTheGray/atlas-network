@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "echo \"Soon (TM)\""
+    "test": "echo \"Soon (TM)\"",
+    "predocker": "docker build -t atlas-network .",
+    "docker": "docker run --env-file .env --rm -it -p 8090:8090 atlas-network"
   },
   "repository": {
     "type": "git",
