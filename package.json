@@ -1,0 +1,23 @@
+{
+  "name": "atlas-network",
+  "version": "1.0.0",
+  "description": "gives atlas the ability to move around the network",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Soon (TM)\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YashdalfTheGray/atlas-network.git"
+  },
+  "keywords": [
+    "atlas",
+    "network"
+  ],
+  "author": "Yash Kulshrestha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YashdalfTheGray/atlas-network/issues"
+  },
+  "homepage": "https://github.com/YashdalfTheGray/atlas-network#readme"
+}
