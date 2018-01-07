@@ -30,7 +30,8 @@
     "dotenv": "^4.0.0",
     "express": "^4.16.2",
     "morgan": "^1.9.0",
-    "public-ip": "^2.4.0"
+    "public-ip": "^2.4.0",
+    "request-promise": "^4.2.2"
   },
   "devDependencies": {
     "ava": "^0.24.0",
